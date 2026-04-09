@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Muhammad%20Noman%20Saqib&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20MERN%20Stack%20%7C%20Web%20%26%20Mobile%20Developer&descAlignY=58&descColor=8b949e" />
+# Muhammad Noman Saqib
+### Full Stack | MERN Stack | Web & Mobile Developer
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Muhammad%20Noman%20Saqib&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20|%20MERN%20Stack%20|%20Web%20&%20Mobile%20Developer&descAlignY=58&descColor=8b949e)
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+MERN+Stack;React.js+%7C+Next.js+%7C+Node.js;React+Native+%7C+Flutter+%7C+Python;WordPress+%7C+Shopify+%7C+Digital+Marketing;Building+innovative%2C+growth-driven+apps" alt="Typing SVG" />
