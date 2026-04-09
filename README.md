@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Muhammad%20Noman%20Saqib&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20MERN%20Stack%20%7C%20Web%20%26%20Mobile%20Developer&descAlignY=58&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Muhammad%20Noman%20Saqib&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20MERN%20Stack%20%7C%20Web%20%26%20Mobile%20Developer&descAlignY=58&descColor=8b949e&v=1" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -11,10 +11,8 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad--Noman--Saqib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad-Noman-Saqib)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Muhammad--Noman--Saqib-FF6B6B?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://Muhammad-Noman-Saqib.github.io)
-[![Gmail](https://img.shields.io/badge/Gmail-muhammadnomansaqib145-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadnomansaqib145@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B923349209855-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923349209855)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad--Noman--Saqib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammadnomansaqib)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Muhammad--Noman--Saqib-FF6B6B?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.fiverr.com/users/mnomansaqib/portfolio)
 
 <br/>
 
@@ -217,19 +215,19 @@ const noman = {
 
 ## 🎓 Education
 
-<div align="center">
+<div align="left">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  🎓  Bachelor of Science in Software Engineering                    ║
-║      Abasyn University Peshawar (Main Campus)                       ║
-║      Aug 2020 – Oct 2024                                            ║
+║  🎓  Bachelor of Science in Software Engineering                     
+║      Abasyn University Peshawar (Main Campus)                        ║
+║      Aug 2020 – Oct 2024                                             ║
 ║                                                                      ║
-║  📊  CGPA: 3.75 / 4.0  |  Percentage: 94%                          ║
+║  📊  CGPA: 3.75 / 4.0  |  Percentage: 94%                           
 ║                                                                      ║
-║  📚  Relevant Courses:                                               ║
-║      Machine Learning · Data Structures & Algorithms                ║
-║      Database Management · Mobile App Development                   ║
+║  📚  Relevant Courses:                                              
+║      Machine Learning · Data Structures & Algorithms                 ║
+║      Database Management · Mobile App Development                    ║
 ║      Web Programming Languages                                       ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
