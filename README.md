@@ -217,20 +217,16 @@ const noman = {
 
 <div align="left">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  🎓  Bachelor of Science in Software Engineering                     
-║      Abasyn University Peshawar (Main Campus)                        ║
-║      Aug 2020 – Oct 2024                                             ║
-║                                                                      ║
-║  📊  CGPA: 3.75 / 4.0  |  Percentage: 94%                           
-║                                                                      ║
-║  📚  Relevant Courses:                                              
-║      Machine Learning · Data Structures & Algorithms                 ║
-║      Database Management · Mobile App Development                    ║
-║      Web Programming Languages                                       ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+### 🎓 Education
+
+> **Bachelor of Science in Software Engineering**
+> *Abasyn University Peshawar (Main Campus)* | *2020 – 2024*
+>
+> 📊 **Result:** CGPA 3.75 / 4.0 (94%)
+> 
+> ---
+> **Relevant Coursework:**
+> `Machine Learning` • `DSA` • `DBMS` • `Mobile Dev` • `Web Programming`
 
 </div>
 
@@ -262,9 +258,9 @@ const noman = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MNomanSaqib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MNomanSaqib&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNomanSaqib&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MNomanSaqib&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
 </div>
 
