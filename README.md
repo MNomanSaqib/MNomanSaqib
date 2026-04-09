@@ -1,9 +1,6 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-# Muhammad Noman Saqib
-### Full Stack | MERN Stack | Web & Mobile Developer
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Muhammad%20Noman%20Saqib&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20|%20MERN%20Stack%20|%20Web%20&%20Mobile%20Developer&descAlignY=58&descColor=8b949e)
 
 <!-- Typing Animation -->
